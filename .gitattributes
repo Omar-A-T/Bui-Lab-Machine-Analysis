@@ -1,0 +1,7 @@
+*.h5 filter=lfs diff=lfs merge=lfs -text
+*.ilp filter=lfs diff=lfs merge=lfs -text
+*.tif filter=lfs diff=lfs merge=lfs -text
+*.tiff filter=lfs diff=lfs merge=lfs -text
+*.oib filter=lfs diff=lfs merge=lfs -text
+*.cpproj filter=lfs diff=lfs merge=lfs -text
+*.ijm filter=lfs diff=lfs merge=lfs -text
